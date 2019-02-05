@@ -23,7 +23,26 @@ body {
   margin: 0;
 }
 
-.img-flex {
-  display: block;
-  width: 100%;
+.watermelon {
+  background-color: #e97065;
+}
+
+.starfruit {
+  background-color: #fbd25e;
+}
+
+.persimmon {
+  background-color: #e86033;
+}
+
+.first-header {
+  font-family: "Rammetto One", cursive;
+}
+
+.second-header {
+  font-family: "Gravitas One", cursive;
+}
+
+.third-header {
+  font-family: Comfortaa, cursive;
 }
